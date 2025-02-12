@@ -1,4 +1,6 @@
 # Java OpenTelemetry Examples
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrask%2Fopentelemetry-java-examples.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrask%2Fopentelemetry-java-examples?ref=badge_shield)
+
 
 This module contains a set of fully-functional, working examples of using the
 OpenTelemetry Java APIs and SDK that should all be able to be run locally. Some
@@ -77,3 +79,7 @@ Superset of approvers and maintainers from the
 and
 [opentelemetry-java-contrib](https://github.com/open-telemetry/opentelemetry-java-contrib#contributing)
 repositories.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrask%2Fopentelemetry-java-examples.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrask%2Fopentelemetry-java-examples?ref=badge_large)
