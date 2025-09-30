@@ -40,6 +40,16 @@
       "enabled": false
     },
     {
+      // junit 6+ requires Java 17+
+      matchPackageNames: [
+        'org.junit:**',
+      ],
+      matchUpdateTypes: [
+        'major',
+      ],
+      enabled: false,
+    },
+    {
       // Skip locally built dice image used in logging-k8s-stdout-otlp-json
       "matchManagers": ["kubernetes"],
       "matchDatasources": ["docker"],
